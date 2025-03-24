@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front End`**
 
-"Me chamo Matheus Pimentel, tenho 30 anos e sou natural do interior de São Paulo. Sou iniciante em desenvolvimento web e criei um perfil no Instagram, chamado "[Code Matheus](https://www.instagram.com/code.matheus/)", onde compartilho dicas sobre estudos e aprendizado na área."
+Me chamo Matheus Pimentel, tenho 30 anos e sou natural do interior de São Paulo. Sou iniciante em desenvolvimento web e criei um perfil no Instagram, chamado "[Code Matheus](https://www.instagram.com/code.matheus/)", onde compartilho dicas sobre estudos e aprendizado na área.
 
 <p align="left">
     <a href="https://github.com/MatthPimentel?tab=repositories&sort=stargazers">
