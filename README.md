@@ -13,7 +13,7 @@ Me chamo Matheus, tenho 31 anos e sou natural do interior de São Paulo. Após a
 
 Em 2025, iniciei minha segunda graduação — o curso de **Análise e Desenvolvimento de Sistemas** — com o objetivo de consolidar minha formação na área e ampliar minhas oportunidades profissionais.
 
-Como acredito no poder da troca de conhecimentos, criei o perfil [**Code Matheus**](https://www.instagram.com/code.matheus/)  no Instagram, onde compartilho dicas sobre estudos e uma boa dose de café.
+
 <br>
 
 <div align="center">
