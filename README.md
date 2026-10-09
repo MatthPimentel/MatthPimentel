@@ -1,36 +1,38 @@
-## Bem-vindo ao Github do Matheus 👋🏽
+# Olá, eu sou o Matheus 👋
+
+**Desenvolvedor Back-End em formação | Node.js**
+
+🎓 Cursando Análise e Desenvolvimento de Sistemas.
+
+🎯 Buscando oportunidade de **estágio ou vaga júnior** em desenvolvimento back-end.
+
+📍 Sorocaba, SP · 
 
 
-**`Desenvolvedor Front-End`**
+## 👨‍💻 Sobre mim
 
-<br>
-<div align="center">
-<img width="400" height="400" alt="avatar-readme" src="https://github.com/user-attachments/assets/6f06b47c-eaf7-4c37-9553-0e95b036447b" />
-</div>
+Após anos atuando em outra área, migrei para a tecnologia e hoje direciono meus estudos para o desenvolvimento back-end. Construo APIs com Node.js, aprendo a modelar bancos de dados e busco escrever código organizado e testável. Trago da minha experiência anterior [responsabilidade, atendimento ao cliente, trabalho em equipe, etc.], que levo para o dia a dia de desenvolvimento.
 
-## 👨‍💻Sobre mim
-Me chamo Matheus, tenho 31 anos e sou natural do interior de São Paulo. Após anos atuando em outra área, decidi migrar para o setor de Tecnologia da Informação, onde venho me dedicando ao desenvolvimento contínuo de novas habilidades.
+## 🛠️ Tecnologias
 
-Em 2025, iniciei minha segunda graduação — o curso de **Análise e Desenvolvimento de Sistemas** — com o objetivo de consolidar minha formação na área e ampliar minhas oportunidades profissionais.
+**Back-end**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
-<br>
-
-<div align="center">
-    
-![Image](https://github.com/user-attachments/assets/f4cadb4c-e8e9-4c53-b8e6-279fd4f02291)
-</div>
-
-
-## 🌐 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pimentel-683b84340/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/code.matheus/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatthPimentel)
-
-
-## 🤖 Tecnologias 
+**Front-end**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Ferramentas**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📚 Estudando agora
+
+- Express e construção de APIs REST
+- Banco de dados relacional (PostgreSQL ou MySQL) e SQL
+
+
+## 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pimentel-683b84340/)
